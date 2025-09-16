@@ -1,92 +1,63 @@
-<!-- ==================== Banner ==================== -->
+<!--
+README for GitHub Profile: Shivanshu-Singh-2203
+Focus: Learning and foundational computing projects
+-->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Welcome-🌟-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Welcome"/>
+  <img src="https://komarev.com/ghpvc/?username=Shivanshu-Singh-2203&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Shivanshu Singh</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivanshu-Singh-2203&color=brightgreen" alt="Profile Views"/>
-</p>
-
----
-
-<!-- ==================== Profile Info ==================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile-ID-Shivanshu--Singh--2203-blue?style=for-the-badge&logo=github" alt="Profile ID"/>
-  <img src="https://img.shields.io/badge/Status-Learning💡-orange?style=for-the-badge" alt="Learning"/>
+  <em>Learning enthusiast | Exploring Computing Systems | C | Shell | OCaml</em>
 </p>
 
 ---
 
-<!-- ==================== GitHub Streak ==================== -->
+## 🌱 Currently Learning
+- C Programming: Focus on problem-solving & system programming
+- Shell Scripting: Automating tasks & Linux systems
+- OCaml: Functional programming paradigms
+- Computing Systems: Understanding how computers work at the core
+
+---
+
+## 🗂️ My Repositories
+
+| Repository | Language | Description |
+|-----------|---------|-------------|
+| [CS2111-Foundation-of-Computing-Systems](https://github.com/Shivanshu-Singh-2203/CS2111-Foundation-of-Computing-Systems) | Assembly | Assignments & projects on computing systems fundamentals |
+| [Learning-Ocaml](https://github.com/Shivanshu-Singh-2203/Learning-Ocaml) | OCaml | OCaml exercises and practice projects |
+| [C-Programming](https://github.com/Shivanshu-Singh-2203/C-Programming) | C | Projects, assignments, and coding exercises |
+| [Shell-Scripting](https://github.com/Shivanshu-Singh-2203/Shell-Scripting) | Shell | Automation & system management scripts |
+| [CS2013-Systems-Programming](https://github.com/Shivanshu-Singh-2203/CS2013-Systems-Programming) | Shell | Systems programming exercises & projects |
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivanshu-Singh-2203&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivanshu-Singh-2203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu-Singh-2203&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-<!-- ==================== GitHub Contributions Heatmap ==================== -->
+## 🔗 Connect With Me
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Shivanshu-Singh-2203&theme=react-dark&area=true&hide_border=true" alt="GitHub Heatmap"/>
+  <a href="https://www.linkedin.com/in/shivanshu-singh-2203" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/shivanshu_singh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:shivanshu@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- ==================== Wakatime Stats ==================== -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shivanshu-Singh-2203&theme=radical&layout=compact&hide_border=true" alt="Wakatime Stats"/>
-</p>
+## ⚡ Fun Fact
+> I focus on **learning and experimenting**, not just coding. I believe in building knowledge step by step and exploring every concept deeply.
 
 ---
 
-<!-- ==================== Top Languages ==================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu-Singh-2203&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-<!-- ==================== Learning Progress Bars ==================== -->
-<p align="center">
-  <b>C++:</b> <img src="https://progress-bar.dev/95/?color=00599C" alt="C++ Progress"/><br>
-  <b>Python:</b> <img src="https://progress-bar.dev/85/?color=3776AB" alt="Python Progress"/><br>
-  <b>Linux:</b> <img src="https://progress-bar.dev/75/?color=FCC624" alt="Linux Progress"/><br>
-  <b>Data Structures:</b> <img src="https://progress-bar.dev/70/?color=FF5733" alt="DS Progress"/><br>
-  <b>Algorithms:</b> <img src="https://progress-bar.dev/65/?color=FF4500" alt="Algo Progress"/><br>
-  <b>System Programming:</b> <img src="https://progress-bar.dev/50/?color=8A2BE2" alt="SysProg Progress"/>
-</p>
-
----
-
-<!-- ==================== Fun GitHub Stats ==================== -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivanshu-Singh-2203&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-repos/?username=Shivanshu-Singh-2203&layout=compact&theme=radical&hide_border=true" alt="Top Repos"/>
-</p>
-
----
-
-<!-- ==================== About Me ==================== -->
-<p align="center">
-  <strong>Hi, I'm Shivanshu 👋</strong><br>
-  🔭 Exploring, Learning & Sharing Knowledge <br>
-  💻 Focused on C++, Python, Linux & Competitive Programming <br>
-  🌱 Currently learning: Advanced DS, OS Internals, System Programming <br>
-  🎯 Goal: Master Programming & Problem Solving <br>
-</p>
-
----
-
-<!-- ==================== Footer / Fun Badges ==================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Commit-Master-ff69b4?style=for-the-badge" alt="Commit Master"/>
-  <img src="https://img.shields.io/badge/Always-Learning-00CED1?style=for-the-badge" alt="Always Learning"/>
-  <img src="https://img.shields.io/badge/Coding-Forever-FFA500?style=for-the-badge" alt="Coding Forever"/>
+  Made with ❤️ by Shivanshu Singh
 </p>
 
