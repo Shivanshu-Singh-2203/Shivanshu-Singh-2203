@@ -1,65 +1,67 @@
-<!-- Futuristic Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=220&section=header&text=Shivanshu%20Singh&fontSize=50&fontAlignY=40&desc=Systems%20Programmer%20%7C%20Linux%20Enthusiast%20%7C%20Open%20Source&descAlignY=60&descAlign=50&animation=fadeIn" />
+  <img src="https://img.shields.io/badge/Hello-I'm_Sshivanshu-orange?style=for-the-badge&logo=github" alt="Banner"/>
 </p>
 
-<!-- Typing animation -->
+# 👋 Hi there, I'm Shivanshu!
+
+## 🎓 About Me
+- 📍 Based in India
+- 🏫 Freshman at IIT Palakkad
+- 🔭 Exploring C++, Python, Bash, Shell scripting
+- 🌱 Learning Data Structures, Algorithms, Web Development
+- ⚡ Lifelong learner – experimenting and growing every day
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=900&lines=Systems+Programmer+%7C+Low-Level+Developer;C+%7C+OCaml+%7C+Assembly+%7C+Bash;Linux+Power+User+%7C+Open-Source+Contributor" alt="Typing SVG">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivanshu-Singh-2203&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 ---
 
-# 🧑‍💻 About Me  
-
-```yaml
-Name: Shivanshu Singh
-Role: Systems Programmer & Problem Solver
-Focus: Low-Level Programming, Compilers, OS Concepts
-Hobbies: Automating with Bash, Exploring Linux Internals
-FunFact: My favorite debugger is 'printf()' 😉
-```
-
----
-
-# 🛠️ Tech Stack  
-
+## 📈 Activity Graph
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,ocaml,linux,bash,git,vim,rust,docker" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshu-Singh-2203&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics  
-
+## 🔥 Learning Streaks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivanshu-Singh-2203&show_icons=true&theme=radical&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu-Singh-2203&layout=compact&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivanshu-Singh-2203&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivanshu-Singh-2203&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Shivanshu-Singh-2203&theme=radical&hide_border=true)
 </p>
 
 ---
 
-# 🚀 Featured Projects  
+## 🛠️ Animated Skill Progress
 
 <p align="center">
-  <a href="https://github.com/Shivanshu-Singh-2203/CS2013-Systems-Programming">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshu-Singh-2203&repo=CS2013-Systems-Programming&theme=radical" />
-  </a>
-  <a href="https://github.com/Shivanshu-Singh-2203/Shell-Scripting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshu-Singh-2203&repo=Shell-Scripting&theme=radical" />
-  </a>
+
+C++ <br>
+![C++ Progress](https://img.shields.io/badge/C++-[░░░░░░░░░░]-0%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br><br>
+
+Python <br>
+![Python Progress](https://img.shields.io/badge/Python-[░░░░░░░░░░]-0%25-yellow?style=for-the-badge&logo=python&logoColor=white)<br><br>
+
+JavaScript <br>
+![JavaScript Progress](https://img.shields.io/badge/JavaScript-[░░░░░░░░░░]-0%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br><br>
+
+Linux CLI <br>
+![Linux CLI Progress](https://img.shields.io/badge/Linux-[░░░░░░░░░░]-0%25-black?style=for-the-badge&logo=linux&logoColor=white)<br><br>
+
+Git/GitHub <br>
+![Git Progress](https://img.shields.io/badge/Git-[░░░░░░░░░░]-0%25-F05032?style=for-the-badge&logo=git&logoColor=white)<br><br>
+
+Algorithms <br>
+![Algorithms Progress](https://img.shields.io/badge/Algorithms-[░░░░░░░░░░]-0%25-brightgreen?style=for-the-badge)<br><br>
+
+Web Dev <br>
+![Web Dev Progress](https://img.shields.io/badge/Web_Dev-[░░░░░░░░░░]-0%25-blueviolet?style=for-the-badge)
 </p>
 
-<p align="center">
-  <a href="https://github.com/Shivanshu-Singh-2203/Learning-Ocaml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivanshu-Singh-2203&repo=Learning-Ocaml&theme=radical" />
-  </a>
-</p>
+---
+
+<p align="center">📌 Focused on learning, experimenting, and growing every day!</p>
+
