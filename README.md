@@ -1,67 +1,67 @@
-<!-- Banner -->
+<!-- ==================== Banner ==================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Hello-I'm_Sshivanshu-orange?style=for-the-badge&logo=github" alt="Banner"/>
+  <img src="https://img.shields.io/badge/Welcome-🌟-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Welcome"/>
 </p>
 
-# 👋 Hi there, I'm Shivanshu!
-
-## 🎓 About Me
-- 📍 Based in India
-- 🏫 Freshman at IIT Palakkad
-- 🔭 Exploring C++, Python, Bash, Shell scripting
-- 🌱 Learning Data Structures, Algorithms, Web Development
-- ⚡ Lifelong learner – experimenting and growing every day
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivanshu-Singh-2203&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen" alt="Profile Views"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+<!-- ==================== Profile Info ==================== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivanshu-Singh-2203&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+  <img src="https://img.shields.io/badge/Profile-ID-YourID-blue?style=for-the-badge&logo=github" alt="Profile ID"/>
+  <img src="https://img.shields.io/badge/Streak-🔥YourStreakDays-yellow?style=for-the-badge&logo=github" alt="Streak"/>
+  <img src="https://img.shields.io/badge/Status-Learning💡-orange?style=for-the-badge" alt="Learning"/>
 </p>
 
 ---
 
-## 🔥 Learning Streaks
+<!-- ==================== Activity Graph ==================== -->
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Shivanshu-Singh-2203&theme=radical&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ---
 
-## 🛠️ Animated Skill Progress
-
+<!-- ==================== Wakatime Stats ==================== -->
 <p align="center">
-
-C++ <br>
-![C++ Progress](https://img.shields.io/badge/C++-[░░░░░░░░░░]-0%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br><br>
-
-Python <br>
-![Python Progress](https://img.shields.io/badge/Python-[░░░░░░░░░░]-0%25-yellow?style=for-the-badge&logo=python&logoColor=white)<br><br>
-
-JavaScript <br>
-![JavaScript Progress](https://img.shields.io/badge/JavaScript-[░░░░░░░░░░]-0%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br><br>
-
-Linux CLI <br>
-![Linux CLI Progress](https://img.shields.io/badge/Linux-[░░░░░░░░░░]-0%25-black?style=for-the-badge&logo=linux&logoColor=white)<br><br>
-
-Git/GitHub <br>
-![Git Progress](https://img.shields.io/badge/Git-[░░░░░░░░░░]-0%25-F05032?style=for-the-badge&logo=git&logoColor=white)<br><br>
-
-Algorithms <br>
-![Algorithms Progress](https://img.shields.io/badge/Algorithms-[░░░░░░░░░░]-0%25-brightgreen?style=for-the-badge)<br><br>
-
-Web Dev <br>
-![Web Dev Progress](https://img.shields.io/badge/Web_Dev-[░░░░░░░░░░]-0%25-blueviolet?style=for-the-badge)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourWakatimeID&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats"/>
 </p>
 
 ---
 
-<p align="center">📌 Focused on learning, experimenting, and growing every day!</p>
+<!-- ==================== Languages ==================== -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+<!-- ==================== About Me ==================== -->
+<p align="center">
+  <strong>Hi, I'm YourName 👋</strong><br>
+  🔭 Exploring, Learning & Sharing Knowledge <br>
+  💻 Focused on C++, Python, Linux & Competitive Programming <br>
+  🌱 Currently learning: Advanced Data Structures, OS Internals, System Programming <br>
+  🎯 Goal: Master Programming, Algorithms & Problem Solving <br>
+</p>
+
+---
+
+<!-- ==================== Fun Stats ==================== -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+---
+
+<!-- ==================== Connect with Me ==================== -->
+<p align="center">
+  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YourLinkedInID/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/YourUsername"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
 
